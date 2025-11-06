@@ -5,5 +5,5 @@
 # Send an email for each "contact" form submission
 [[notifications]]
   type = "email"
-  to = "mitun@devolvedai.com"
+  to = "mitunshil747@gmail.com"
   form = "contact"
