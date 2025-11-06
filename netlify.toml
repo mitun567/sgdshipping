@@ -1,0 +1,9 @@
+# netlify.toml
+[build]
+  publish = "."
+
+# Send an email for each "contact" form submission
+[[notifications]]
+  type = "email"
+  to = "mitun@devolvedai.com"
+  form = "contact"
