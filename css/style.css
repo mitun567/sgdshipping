@@ -384,7 +384,8 @@ img {
     font-weight: 700;
     color: var(--gold);
     font-family: 'Playfair Display', serif;
-    line-height: 1;
+    line-height: 1.2; 
+   white-space: nowrap;
 }
 
 .stat-label {
